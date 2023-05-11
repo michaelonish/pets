@@ -1,0 +1,11 @@
+{
+    "name": "michae52/328/week6",
+    "authors" : [
+  {
+    "name": "Michael Onishchenko",
+    "email": "onishchenkomike@yahoo.com"
+  }
+],
+      "require": {"bcosca/fatfree-core":  "dev-master"
+      }
+}
